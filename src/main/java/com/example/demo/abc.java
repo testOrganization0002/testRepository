@@ -5,6 +5,9 @@ public class abc {
 	int aa=12;
 	/*giha niwgyuyuyuf*/
 	
+	
+	
+	
 	/*giha niwgyuyuyuf*/
 
 }
